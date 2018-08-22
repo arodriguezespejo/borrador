@@ -2,7 +2,7 @@
 <head>
   <title>borrador </title>
   </head>  
-<body bgcolor="pink"> Me escuchaaan? Me oyeeeeeeeen?!!!
+<body bgcolor="D1B1AA"> Me escuchaaan? Me oyeeeeeeeen?!!!
   </body>
   
   
